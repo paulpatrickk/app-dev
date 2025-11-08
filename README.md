@@ -27,4 +27,4 @@ echo "Avengers, assemble!"
 ```
 
 ## Contact
-For more info, contact: yourname@sti.edu.ph
+For more info, contact: balbalosa.370491@stamaria.sti.edu.ph
